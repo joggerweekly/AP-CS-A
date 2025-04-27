@@ -63,3 +63,68 @@ public class Person {
 Unit 10: Recursion
 search and sort
 https://runestone.academy/ns/books/published/csjava/Unit11-Recursion/topic-11-2-recursive-search-sort.html
+
+/*
+Welcome to JDoodle!
+
+You can execute code here in 88 languages. Right now you’re in the Java IDE.
+
+  1. Click the orange Execute button ▶ to execute the sample code below and see how it works.
+
+  2. Want help writing or debugging code? Type a query into JDroid on the right hand side ---------------->
+
+  3.Try the menu buttons on the left. Save your file, share code with friends and open saved projects.
+
+Want to change languages? Try the search bar up the top.
+*/
+
+import java.util.Arrays;
+
+public class Sort {
+  public static void main(String args[]) {
+    int x=10;
+    int y=25;
+    int z=x+y;
+
+    System.out.println("Sum of x+y = " + z);
+    
+    
+    int arr[] = { 12, 11, 13, 5, 6 };
+  }
+
+  public static void InsertionSortRecursive(int arr[]) {
+    if (arr.length > 2)
+    {
+        //compare first element with the sorted sublist
+        
+        int[] sub = Arrays.copyOfRange(arr, 1, arr.length-1); 
+        
+        if (arr[0]>InsertionSortRecursive(sub)[0])
+        {
+            int t = arr[0];
+            arr[0] = arr[1];
+            arr[1] = t;
+        }
+        else
+        {
+            // add arr[0] to the front of the sorted list and return the new list
+            
+        }
+    }
+       //
+    else
+    {
+        //swap if first element is bigger
+        if (arr[0]>arr[1])
+        {
+            int t = arr[0];
+            arr[0] = arr[1];
+            arr[1] = t;
+        }
+        
+    }
+  }  
+}
+
+
+
