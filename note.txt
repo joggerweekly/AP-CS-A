@@ -126,5 +126,11 @@ public class Sort {
   }  
 }
 
+//practice exam provide by college board
+https://plbailey79.github.io/portal/harc/z17/XCScix03_GridworldReleasedExam.pdf
+https://apcentral.collegeboard.org/media/pdf/ap-computer-science-a-course-and-exam-description.pdf
+
+//AP Computer Science A (2023) Review Questions
+https://github.com/VerisimilitudeX/apcsa
 
 
