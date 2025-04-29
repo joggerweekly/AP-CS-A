@@ -133,4 +133,12 @@ https://apcentral.collegeboard.org/media/pdf/ap-computer-science-a-course-and-ex
 //AP Computer Science A (2023) Review Questions
 https://github.com/VerisimilitudeX/apcsa
 
+Gridworld
+student manual: 
+https://secure-media.collegeboard.org/apc/GridWorld_Case_Study_Student_Manual_with_Appendixes_Aug_2007_updated.pdf
 
+Solutions Document: 
+https://secure-media.collegeboard.org/apc/ap07_gridworld_solutions_doc_v2.pdf
+
+solution code:
+https://github.com/parkr/GridWorld/
