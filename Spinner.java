@@ -1,7 +1,11 @@
 // AP computer science A
 // 2020 free response question
 
-//ArrayList as lastrun instead of state
+/*
+* ArrayList to keep the hisotry of spinning instead of state, better in that:
+* 1. current run
+* 2. replay history
+*/
 public class Spinner {
 
     private int numSectors; // sectors from  1, 2, ...
