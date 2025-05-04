@@ -1,7 +1,10 @@
 // AP computer science A
 // 2020 free response question
 
+// state solution
+
 /*
+* ArrayList solution
 * ArrayList to keep the hisotry of spinning instead of state, better in that:
 * 1. current run
 * 2. replay history
