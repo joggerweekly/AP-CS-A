@@ -24,3 +24,22 @@ https://longbaonguyen.github.io/courses/apcsp/apprinciples.html
 python is required
 https://codehs.com/course/apcsp_py/overview
 
+CodeHS
+
+https://codehs.com/tutorial/calvin/using-the-java-debugger
+A True IDE, such as vs code (with Java extension) with local JDK, is faster, more powerful and efficient, due to the nature of being local instead of web-based. Please give it a try!
+
+Many free code/lab samples on github assume the local installation of JDK
+
+vs code can be used for multiple languages, such as javascrip, python, sql, java/C# etc.
+vs code is widely used by professionals.
+
+Reference:
+official doc of JDK:
+https://docs.oracle.com/javase/8/docs/technotes/tools/
+
+
+
+
+
+
