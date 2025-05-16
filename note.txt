@@ -26,6 +26,13 @@ https://codehs.com/course/apcsp_py/overview
 
 CodeHS
 
+
+labs are simple versions of real world applications, which are motivating and exciting!
+labs can be extended by adding more features (classes, methods, etc.)
+
+https://github.com/vmsaif/coffeeShopSystem
+
+
 https://codehs.com/tutorial/calvin/using-the-java-debugger
 A True IDE, such as vs code (with Java extension) with local JDK, is faster, more powerful and efficient, due to the nature of being local instead of web-based. Please give it a try!
 
