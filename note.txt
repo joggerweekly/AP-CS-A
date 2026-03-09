@@ -1,8 +1,10 @@
 memory cell
 https://www.cs.emory.edu/~cheung/Courses/170/Syllabus/01/binary.html
 
+google
 linked list in python
 
+tree search in python
 https://www.geeksforgeeks.org/python/binary-search-tree-in-python/
 
 
