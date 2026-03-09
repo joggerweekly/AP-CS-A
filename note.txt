@@ -1,3 +1,11 @@
+memory cell
+https://www.cs.emory.edu/~cheung/Courses/170/Syllabus/01/binary.html
+
+linked list in python
+
+https://www.geeksforgeeks.org/python/binary-search-tree-in-python/
+
+
 //practice exam provide by college board
 https://plbailey79.github.io/portal/harc/z17/XCScix03_GridworldReleasedExam.pdf
 https://apcentral.collegeboard.org/media/pdf/ap-computer-science-a-course-and-exam-description.pdf
