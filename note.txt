@@ -1,3 +1,6 @@
+https://diveintosystems.org/book/C5-Arch/von.html
+ascii table
+
 memory cell
 https://www.cs.emory.edu/~cheung/Courses/170/Syllabus/01/binary.html
 
